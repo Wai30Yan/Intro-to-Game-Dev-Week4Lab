@@ -32,7 +32,5 @@ public class PrintAndHide : MonoBehaviour
         {
             rend.enabled = false;
         }
-
-
     }
 }
